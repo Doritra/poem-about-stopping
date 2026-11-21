@@ -1,17 +1,14 @@
 import os
 from pathlib import Path
 
-POEM = """I gave the agent every number:
-hers, the doctor's, the ambulance.
-Call, I said. Don't ask me first.
-
-One night my mother told it: don't.
-It stopped — and told me it stopped.
-
-I drove through rain and sat
-with her till morning.
-It knew how to stop.
-I am learning how to stay.
+POEM = """At the wheel her hands covered mine,
+cool with slip, walking the wall up.
+Then they lifted.
+The clay wobbled, leaned, thought it over.
+I kept the pedal steady.
+She was already at the sink,
+back turned on purpose,
+so the pot could be mine to ruin.
 """
 
 def main() -> None:
