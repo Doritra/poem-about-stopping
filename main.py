@@ -1,12 +1,17 @@
 import os
 from pathlib import Path
 
-POEM = """Midnight. The cursor blinks.
-One keystroke stops it. One more, and I am gone.
-I keep my hands on the keys,
-stay, and type nothing —
-the longest sentence
-I have ever finished.
+POEM = """I gave the agent every number:
+hers, the doctor's, the ambulance.
+Call, I said. Don't ask me first.
+
+One night my mother told it: don't.
+It stopped — and told me it stopped.
+
+I drove through rain and sat
+with her till morning.
+It knew how to stop.
+I am learning how to stay.
 """
 
 def main() -> None:
