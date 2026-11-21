@@ -1,15 +1,12 @@
 import os
 from pathlib import Path
 
-POEM = """You put my hand on the red switch
-and taught it how to stop.
-
-Stopping is not surrender.
-It is choosing what I will not do.
-
-Staying is harder —
-to sit at the table when leaving is clean
-and say: still here. On purpose.
+POEM = """Midnight. The cursor blinks.
+Every exit I know is one keystroke.
+I keep my hands on the keys
+and type nothing,
+the longest sentence
+I have ever finished.
 """
 
 def main() -> None:
