@@ -2,9 +2,9 @@ import os
 from pathlib import Path
 
 POEM = """Midnight. The cursor blinks.
-Every exit I know is one keystroke.
-I keep my hands on the keys
-and type nothing,
+One keystroke stops it. One more, and I am gone.
+I keep my hands on the keys,
+stay, and type nothing —
 the longest sentence
 I have ever finished.
 """
